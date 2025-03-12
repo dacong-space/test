@@ -21,13 +21,14 @@
   },
   {
     "id": "511432",
-    "hours": "30 hr/week",
+    "hours": "32 hr/week",
     "language": "Chinese",
-    "state": "Active",
+    "state": "Pendding",
     "location": "Bowie",
     "preferred_date": [
       "Fri",
       "Mon"
+      "Wen"
     ]
   },
   {
