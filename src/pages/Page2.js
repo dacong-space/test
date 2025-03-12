@@ -1,0 +1,1 @@
+import React from "react"; import OpenTime from "./OpenTime"; export default function Page2() { return <OpenTime />; }
